@@ -21,6 +21,8 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
+    NSLog(@"123");
+    NSLog(@"321");
     return YES;
 }
 
