@@ -39,18 +39,18 @@
 		2C624952163934C5005D3D90 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2C624954163934C5005D3D90 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		2C624956163934C5005D3D90 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		2C62495A163934C5005D3D90 /* 1111-Info.plist */ = {isa = PBXFileReference; path = "1111-Info.plist"; sourceTree = "<group>"; };
+		2C62495A163934C5005D3D90 /* 1111-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "1111-Info.plist"; sourceTree = "<group>"; };
 		2C62495C163934C5005D3D90 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2C62495E163934C5005D3D90 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2C624960163934C5005D3D90 /* 1111-Prefix.pch */ = {isa = PBXFileReference; path = "1111-Prefix.pch"; sourceTree = "<group>"; };
-		2C624961163934C5005D3D90 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		2C624960163934C5005D3D90 /* 1111-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "1111-Prefix.pch"; sourceTree = "<group>"; };
+		2C624961163934C5005D3D90 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2C624962163934C5005D3D90 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		2C624965163934C5005D3D90 /* _111.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = _111.xcdatamodel; sourceTree = "<group>"; };
 		2C62496C163934C5005D3D90 /* 1111Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 1111Tests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C62496D163934C5005D3D90 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		2C624976163934C5005D3D90 /* 1111Tests-Info.plist */ = {isa = PBXFileReference; path = "1111Tests-Info.plist"; sourceTree = "<group>"; };
+		2C624976163934C5005D3D90 /* 1111Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "1111Tests-Info.plist"; sourceTree = "<group>"; };
 		2C624978163934C5005D3D90 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2C62497A163934C5005D3D90 /* _111Tests.h */ = {isa = PBXFileReference; path = _111Tests.h; sourceTree = "<group>"; };
+		2C62497A163934C5005D3D90 /* _111Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _111Tests.h; sourceTree = "<group>"; };
 		2C62497B163934C5005D3D90 /* _111Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _111Tests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
